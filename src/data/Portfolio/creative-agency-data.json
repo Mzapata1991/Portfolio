@@ -79,7 +79,7 @@
     "id": 5,
     "title": "Districad",
     "category": "INSTAGRAMS",
-    "image": "portfolio/districad.png",
+    "image": "portfolio/districad_insta.png",
     "groups": ["all", "instagrams"],
     "links": [
       {
@@ -98,7 +98,7 @@
     "id": 6,
     "title": "NOE Colchones y Sommiers",
     "category": "INSTAGRAMS",
-    "image": "portfolio/noe.png",
+    "image": "portfolio/noe_insta.png",
     "groups": ["all", "instagrams"],
     "links": [
       {
@@ -117,7 +117,7 @@
     "id": 7,
     "title": "NUEVA VISION",
     "category": "INSTAGRAMS",
-    "image": "portfolio/nuevavision.png",
+    "image": "portfolio/nuevavision_insta.png",
     "groups": ["all", "instagrams"],
     "links": [
       {
