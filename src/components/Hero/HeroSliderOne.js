@@ -18,7 +18,7 @@ const HeroSliderOne = forwardRef((props, ref) => {
         <div className="hero-text-wrap">
           <div className="hero-text white-color">
             <div className="container text-center">
-              <h1 className="white-color font-700">Eduardo García</h1>
+              <h1 className="white-color font-700">Matías Zapata</h1>
               <div className="animate-caption">
                 <h2 className="white-color mt-30">
                   <TextLoop mask={true}>
