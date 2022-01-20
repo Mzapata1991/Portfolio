@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "title": "Software Engineer",
+    "text": "Software Engineering degree at Facultad de Ingeniería UDELAR",
+    "items": [
+      {
+        "id": 1,
+        "icon": "calendar",
+        "title": "2008-2020"
+      },
+      {
+        "id": 2,
+        "icon": "envato",
+        "title": "Facultad de Ingeniería UDELAR"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Systems Analyst",
+    "text": "Systems Analyst degree at Facultad de Ingeniería UDELAR",
+    "items": [
+      {
+        "id": 1,
+        "icon": "calendar",
+        "title": "2008-2015"
+      },
+      {
+        "id": 2,
+        "icon": "envato",
+        "title": "Facultad de Ingeniería UDELAR"
+      }
+    ]
+  }
+]

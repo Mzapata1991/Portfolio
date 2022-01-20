@@ -1,0 +1,16 @@
+[
+  {
+    "id": 4,
+    "icon": "instagram",
+    "portfolio": 0,
+    "footer": 1,
+    "link": "https://www.instagram.com/eduardouozv/"
+  },
+  {
+    "id": 5,
+    "icon": "linkedin",
+    "portfolio": 1,
+    "footer": 1,
+    "link": "https://www.linkedin.com/in/eduardo-ismael-garcia"
+  }
+]

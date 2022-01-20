@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "title": "SCODA AGENCY",
+  "tagline": "WELCOME TO",
+  "text": "Working together, to create something younique.",
+  "image": "background/parallax-bg.jpg",
+  "buttons": [
+    {
+      "id": 1,
+      "text": "WATCH OUR VIDEO",
+      "link": "!#",
+      "type": "btn-circle btn-color"
+    }
+  ]
+}
