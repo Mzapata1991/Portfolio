@@ -8,7 +8,7 @@ import Lightbox from "react-image-lightbox";
 
 const Portfolio = forwardRef(
   ({ filter, layout, columns, space, items, classAppend, children }, ref) => {
-    const categories = ["all", "webs", "apps", "gamedev"];
+    const categories = ["all", "webs", "instagrams"];
     const element = useRef();
     const [shuffle, setShuffle] = useState();
 
@@ -61,7 +61,7 @@ const Portfolio = forwardRef(
         <div className={"container" + (layout === "wide" ? "-fluid" : "")}>
           <div className="row">
             <div className="col-sm-8 section-heading">
-              <h1 className="text-uppercase font-700">Portfolio</h1>
+              <h1 className="text-uppercase font-700">Portafolio</h1>
             </div>
             <div className={"container" + (layout === "wide" ? "-fluid" : "") + " text-center"}>
               {filter === "true" ? (

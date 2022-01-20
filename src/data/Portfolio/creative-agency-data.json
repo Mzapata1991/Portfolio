@@ -1,85 +1,9 @@
 [
   {
     "id": 1,
-    "title": "The Yoga Collective",
-    "category": "APPS",
-    "image": "portfolio/tyc_app.png",
-    "groups": ["all", "apps"],
-    "links": [
-      {
-        "id": 1,
-        "icon": "search-1",
-        "link": "!#"
-      },
-      {
-        "id": 2,
-        "icon": "link-alt",
-        "link": "https://www.theyogacollective.com/app/"
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "title": "Marbl Platform",
-    "category": "APPS",
-    "image": "portfolio/marbl_platform.png",
-    "groups": ["all", "apps", "webs"],
-    "links": [
-      {
-        "id": 1,
-        "icon": "search-1",
-        "link": "!#"
-      },
-      {
-        "id": 2,
-        "icon": "link-alt",
-        "link": "https://marblplatform.com/app-features/"
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "title": "Game",
-    "category": "GAMEDEV",
-    "image": "portfolio/wheel_chair_game.png",
-    "groups": ["all", "gamedev"],
-    "links": [
-      {
-        "id": 1,
-        "icon": "search-1",
-        "link": "!#"
-      },
-      {
-        "id": 2,
-        "icon": "link-alt",
-        "link": "https://eduardozv.github.io/wheelChairBuild/"
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "title": "Conectorium",
+    "title": "NOE",
     "category": "WEBS",
-    "image": "portfolio/conectorium.png",
-    "groups": ["all", "webs", "apps"],
-    "links": [
-      {
-        "id": 1,
-        "icon": "search-1",
-        "link": "!#"
-      },
-      {
-        "id": 2,
-        "icon": "link-alt",
-        "link": "https://www.conectorium.com/"
-      }
-    ]
-  },
-  {
-    "id": 5,
-    "title": "Kindergarden",
-    "category": "WEBS",
-    "image": "portfolio/jardin.png",
+    "image": "portfolio/noe.png",
     "groups": ["all", "webs"],
     "links": [
       {
@@ -90,16 +14,92 @@
       {
         "id": 2,
         "icon": "link-alt",
-        "link": "https://miennielanndie.edu.uy/"
+        "link": "http://www.noe.com.uy/"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "NUEVA VISION",
+    "category": "WEBS",
+    "image": "portfolio/nuevavision.png",
+    "groups": ["all", "webs"],
+    "links": [
+      {
+        "id": 1,
+        "icon": "search-1",
+        "link": "!#"
+      },
+      {
+        "id": 2,
+        "icon": "link-alt",
+        "link": "http://www.nuevavision.uy/"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Districad",
+    "category": "WEBS",
+    "image": "portfolio/districad.png",
+    "groups": ["all", "webs"],
+    "links": [
+      {
+        "id": 1,
+        "icon": "search-1",
+        "link": "!#"
+      },
+      {
+        "id": 2,
+        "icon": "link-alt",
+        "link": "http://www.districad.com.uy/"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Ecaril",
+    "category": "WEBS",
+    "image": "portfolio/ecaril.png",
+    "groups": ["all", "webs"],
+    "links": [
+      {
+        "id": 1,
+        "icon": "search-1",
+        "link": "!#"
+      },
+      {
+        "id": 2,
+        "icon": "link-alt",
+        "link": "http://www.ecaril.com/"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Districad",
+    "category": "INSTAGRAMS",
+    "image": "portfolio/districad.png",
+    "groups": ["all", "instagrams"],
+    "links": [
+      {
+        "id": 1,
+        "icon": "search-1",
+        "link": "!#"
+      },
+      {
+        "id": 2,
+        "icon": "link-alt",
+        "link": "https://www.instagram.com/districaduy/"
       }
     ]
   },
   {
     "id": 6,
-    "title": "Ayax Toyota",
-    "category": "APPS",
-    "image": "portfolio/ayax.png",
-    "groups": ["all", "apps"],
+    "title": "NOE Colchones y Sommiers",
+    "category": "INSTAGRAMS",
+    "image": "portfolio/noe.png",
+    "groups": ["all", "instagrams"],
     "links": [
       {
         "id": 1,
@@ -109,16 +109,16 @@
       {
         "id": 2,
         "icon": "link-alt",
-        "link": "https://play.google.com/store/apps/details?id=uy.com.ayax"
+        "link": "https://www.instagram.com/noecolchonesysommiers/"
       }
     ]
   },
   {
     "id": 7,
-    "title": "Flyer Design",
-    "category": "BRANDING",
-    "image": "portfolio/grid/7.jpg",
-    "groups": ["all", "design", "branding"],
+    "title": "NUEVA VISION",
+    "category": "INSTAGRAMS",
+    "image": "portfolio/nuevavision.png",
+    "groups": ["all", "instagrams"],
     "links": [
       {
         "id": 1,
@@ -128,7 +128,7 @@
       {
         "id": 2,
         "icon": "link-alt",
-        "link": "!#"
+        "link": "https://www.instagram.com/nuevavisionuy/"
       }
     ]
   },

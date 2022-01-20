@@ -1,37 +1,37 @@
 [
   {
     "id": 1,
-    "title": "Software Developer",
-    "text": "Front-end developer. Developing app and websites for U.S.A clients with React/ReactNative.",
-    "tech": "Tools / Technologies used:\r\nAgile Methodology, Scrum, HTML, CSS, Javascript, React, ReactNative, GitHub, AppleStore, PlayStore, VisualStudioCode",
+    "title": "Freelance",
+    "text": "Gestión web y redes sociales",
+    "tech": "Diseño y planificación de contenidos",
     "items": [
       {
         "id": 1,
         "icon": "calendar",
-        "title": "2018-2021"
+        "title": "2019-2022"
       },
       {
         "id": 2,
         "icon": "envato",
-        "title": "ASAP Developers"
+        "title": "Social Media Manager"
       }
     ]
   },
   {
     "id": 2,
-    "title": "Full-stack developer",
-    "text": "Development and maintenance of Internal University Manager System & Students Web Site.",
-    "tech": "Tools / Technologies used:\nHTML, CSS, Javascript, JSF, JSP, JQuery, RichFaces, EJB, Hibernate, Java, Oracle, Eclipse, JBoss, JUnit",
+    "title": "Marketing Manager",
+    "text": "Encargado de Marketing Digital, responsable de sitio web ecommerce en Fenicio",
+    "tech": "Planificación y estrategia de contenidos para redes sociales",
     "items": [
       {
         "id": 1,
         "icon": "calendar",
-        "title": "2016-2017"
+        "title": "2020-2022"
       },
       {
         "id": 2,
         "icon": "envato",
-        "title": "SeCIU (Servicio Central Informático de la Universidad)"
+        "title": "EL GALO S.A"
       }
     ]
   }

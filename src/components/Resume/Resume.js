@@ -33,13 +33,13 @@ const Resume = forwardRef((props, ref) => {
       <div className="container">
         <div className="row">
           <div className="col-sm-8 section-heading white-color">
-            <h1 className="text-uppercase font-700">My Resume</h1>
+            <h1 className="text-uppercase font-700">Mi curriculum</h1>
           </div>
         </div>
         <div className="row mt-50">
           <div className="col-md-12">
             <h3 className="mt-10 raleway-font font-700 text-uppercase">
-              Experience
+              Experiencia
             </h3>
             <p className="white-color">
               {/* Mauris quis venenatis mauris. Nullam vel commodo velit. Cras purus
@@ -66,7 +66,7 @@ const Resume = forwardRef((props, ref) => {
         </div>
         <div className="row mt-50">
           <div className="col-md-12">
-            <h3 className="mt-10 font-700 text-uppercase">Education</h3>
+            <h3 className="mt-10 font-700 text-uppercase">Educación</h3>
             <p className="white-color">
               {/* Mauris quis venenatis mauris. Nullam vel commodo velit. Cras purus
               risus, congue sed ornare id,

@@ -1,35 +1,35 @@
 [
   {
     "id": 1,
-    "title": "Software Engineer",
-    "text": "Software Engineering degree at Facultad de Ingeniería UDELAR",
+    "title": "Analista en Marketing Digital",
+    "text": "",
     "items": [
       {
         "id": 1,
         "icon": "calendar",
-        "title": "2008-2020"
+        "title": "2018-2019"
       },
       {
         "id": 2,
         "icon": "envato",
-        "title": "Facultad de Ingeniería UDELAR"
+        "title": "Senpai Academy, Montevideo, Uruguay"
       }
     ]
   },
   {
     "id": 2,
-    "title": "Systems Analyst",
-    "text": "Systems Analyst degree at Facultad de Ingeniería UDELAR",
+    "title": "Técnico en Comunicación",
+    "text": "",
     "items": [
       {
         "id": 1,
         "icon": "calendar",
-        "title": "2008-2015"
+        "title": "2016-2018"
       },
       {
         "id": 2,
         "icon": "envato",
-        "title": "Facultad de Ingeniería UDELAR"
+        "title": "UTU Comunicación Social, Montevide, Uruguay"
       }
     ]
   }

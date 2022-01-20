@@ -57,7 +57,7 @@ const PersonalResume = () => {
         columns="3"
         layout="wide"
         filter="true"
-        items="6"
+        items="7"
         classAppend="pt-0"
         ref={portfolio}
       />

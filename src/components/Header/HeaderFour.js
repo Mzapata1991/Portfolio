@@ -38,7 +38,7 @@ const HeaderFour = ({ scrollToSection }) => {
               <Icofont icon="navigation-menu" />
             </button>
             <div className="logo navbar-brand">
-              <h4 className="text-uppercase font-700">Personal Resume</h4>
+              <h4 className="text-uppercase font-700">Mi Portafolio</h4>
             </div>
             {/* <MainLogoTwo /> */}
           </div>
